@@ -13,4 +13,5 @@ lt(60)
 fd(100)
 bk(50)
 rt(60)
+bk(150)
 mainloop() # keep the window open untill it is closed
